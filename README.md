@@ -1,5 +1,5 @@
 # React Note-App 
-react note web application ( props-practice ) 
+react note web application ( props-practice . nolocalstorage) 
 `npm install `
 
 Features: 
