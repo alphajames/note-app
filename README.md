@@ -1,7 +1,9 @@
 # React Note-App 
 react note web application ( props-practice . nolocalstorage) 
 `npm install `
-`npm run build `
+
+### Local 
+`npm run dev `
 
 Features: 
 - Vite.js
